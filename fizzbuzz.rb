@@ -1,5 +1,5 @@
 def fizzbuzz(int)
-ifint%3==0 && x%5==0)
+if (int%3==0 && x%5==0)
   puts "FizzBuzz"
 elsif(int%3==0)
   puts "Fizz"
